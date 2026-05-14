@@ -1,0 +1,32 @@
+.features-list {
+    display: flex;
+    gap: 24px;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.features-text {
+    color: #434455;
+    font-size: 16px;
+     gap: 24px;
+    letter-spacing: 0.02em;
+    
+}
+
+.features-item {
+    width: calc((100% - 72px) / 4);
+}
+
+.features-title {
+    margin-bottom: 8px;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+.features {
+    padding: 120px 0;
+}
