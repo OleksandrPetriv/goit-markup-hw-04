@@ -12,6 +12,7 @@
     color: red;
 }
 
+
 .header-nav {
     display: flex;
     align-items: center;
@@ -66,3 +67,16 @@
     margin-left: auto;
 }
 
+.nav-features::after {
+    content: "";
+    background-color: #404BBF;
+    border-radius: 2px;
+    display: block;
+    width: 100%;
+    height: 4px;
+    color: #404BBF;
+    }
+    
+.nav-features a {
+    color: #404BBF;
+}

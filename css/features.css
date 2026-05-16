@@ -5,6 +5,7 @@
     margin: 0;
     padding: 0;
     position: relative;
+    top: 12
 }
 
 .features-text {
@@ -31,17 +32,5 @@
 
 .features {
     padding: 120px 0;
-}
-   
+} 
 
-.features-antena {
-   position: absolute;
-    top: 0;
-    left: 0;
-    background-color: #F4F4FD;
-    border-radius: 4px;
-}
-
-.features-content-antena {
-    position: relative;
-}        
