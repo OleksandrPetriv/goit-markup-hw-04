@@ -5,6 +5,16 @@
 
 }
 
+.portfolio-title-main {
+    display: flex;
+    margin-bottom: 72px;
+    align-content: center;
+    justify-content: center;
+    font-size: 36px;
+    color: #2e2f42;
+    letter-spacing: 0.02em;
+}
+
 .portfolio-list {
     display: flex;
     flex-wrap: wrap;
@@ -55,4 +65,5 @@
     padding: 32px 16px;
     border: 1px solid #e7e9fc;
     border-top: none;
+
 }
