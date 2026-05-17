@@ -61,10 +61,10 @@ img {
   display: block;
 }
 
-icon-wrapper {
+.icon-wrapper {
   height: 112px;
   border: 1px solid #8e8f99;
-  diplay: flex;
+  display: flex;
   align-items: center;
   justify-content: center;
   margin-bottom: 8px;
